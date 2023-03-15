@@ -17,7 +17,7 @@
 1. Create a new public GitHub Gist. (https://gist.github.com/)
 1. Create an access token with the `gist` scope and copy it. (https://github.com/settings/tokens/new)
 
-### Spotify
+### Spotify 
 
 1. Go to the Spotify Developer Dashboard and log in. (https://developer.spotify.com/dashboard/)
 1. Create an app with a name and description.
